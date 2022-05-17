@@ -1,0 +1,44 @@
+header {
+    background-color:rgb(15, 93, 219);
+    color:whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding: 2%;
+    
+}
+
+body > header > nav > ul > li {
+
+    color:white;
+    list-style: none;
+    display: inline;
+}
+
+body > header > nav > ul > li > a {
+    color: white
+
+}
+
+body > header > nav {
+    text-align: right
+}
+
+
+aside{
+    width: 200px;
+    float: left;
+}
+
+
+
+
+footer{
+    background-color: rgb(15, 93, 219);
+    padding: 0.3%;
+    
+}
+
+footer > h6 {
+    color: white;
+    text-align:center;
+}
